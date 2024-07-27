@@ -1,3 +1,7 @@
-# Better Bot Bureau
+<div>
+  <img alt="BBB banner" src="https://i.imgur.com/IkujlGH.png" align="center" />
+</div>
 
-## Better Bot Bureau is a freemium bot maker service, we offer top of the line bots for completely free with additional special features avaliable for a small fee or for free through one of our affiliate programs!
+---
+
+### Better Bot Bureau is a premium bot maker service for a very cheap price (and free) where you can create super advanced and useful bots to help personalize and manage your discord servers!
