@@ -4,4 +4,4 @@
 
 ---
 
-### Better Bot Bureau is a premium bot maker service for a very cheap price (and free) where you can create super advanced and useful bots to help personalize and manage your discord servers!
+### Better Bot Bureau has been abandoned, the scope of this project ended up being far beyond what im capable of taking on alone so im going to be open sourcing it for anyone to carry on themselves, have a good day!
